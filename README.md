@@ -1,7 +1,7 @@
 # Introducción a la computación cuántica
 
-Dr. Rolando Somma
-Dr. Guido Bellomo
+- Dr. Rolando Somma
+- Dr. Guido Bellomo
 
 https://eci.dc.uba.ar/cursos-eci/t2-introduccion-a-la-computacion-cuantica/
 
